@@ -1,0 +1,6 @@
+Cloudera's EC2 library with spot pricing and HBase support
+
+Original documentation
+https://wiki.cloudera.com/display/DOC/Configuring+and+Running+CDH+Cloud+Scripts
+
+Tested with CDH3B3, Ubuntu 10.04 and c1/m1.xlarge instance types
